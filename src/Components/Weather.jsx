@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react'
-import sunny from '../assets/images/sunny.png'
-import cloudy from '../assets/images/cloudy.png'
-import rainy from '../assets/images/rainy.png'
-import snowy from '../assets/images/snowy.png'
-import loadingGif from '../assets/images/loading.gif'
+import sunny from '../assets/Images/sunny.png'
+import cloudy from '../assets/Images/cloudy.png'
+import rainy from '../assets/Images/rainy.png'
+import snowy from '../assets/Images/snowy.png'
+import loadingGif from '../assets/Images/loading.gif'
 
 
 
